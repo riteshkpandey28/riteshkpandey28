@@ -14,7 +14,7 @@
 
 Hi, I'm Ritesh Kumar Pandey, a **`Creator`** and **`Researcher 🔭`** from India.
 Ingenious, critical and eager IT Professional experienced in creating data-focused applications. I wholly agree with Dorthy Parker's rightful 
-statement, **"Creativity is a wild mind and a disciplined eye"**. I wish to turn good ideas into great projects where Creativity can meet 
+statement, **`Creativity is a wild mind and a disciplined eye`**. I wish to turn good ideas into great products where Creativity can meet 
 Technology. Looking to secure a role within a company that allows me to utilize my critical thinking, analytical skills, creativity & IT skills 
 in both an independent and team setting, and to be making a positive contribution to the company overall.
 
