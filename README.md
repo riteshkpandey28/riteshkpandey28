@@ -12,13 +12,12 @@
 
 
 
-Hi, I'm Ritesh Kumar Pandey, a **`Creator`** and **`Researcher 🔭 `** from India.
+Hi, I'm Ritesh Kumar Pandey, a **`Creator`** and **`Researcher 🔭`** from India.
 Ingenious, critical and eager IT Professional experienced in creating data-focused applications. I wholly agree with Dorthy Parker's rightful 
 statement, **"Creativity is a wild mind and a disciplined eye"**. I wish to turn good ideas into great projects where Creativity can meet 
 Technology. Looking to secure a role within a company that allows me to utilize my critical thinking, analytical skills, creativity & IT skills 
 in both an independent and team setting, and to be making a positive contribution to the company overall.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 - 📫 Available at **[`riteshkpandey28@gmail.com`](mailto:riteshkpandey28@gmail.com`)** ,**[`riteshkumar.dp@somaiya.edu`](mailto:riteshkumar.dp@somaiya.edu`)**;
 - 💬 Love to hear different stories, reach out to me anytime. Always up for a conversation;
