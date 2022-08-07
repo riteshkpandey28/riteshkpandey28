@@ -18,7 +18,9 @@ statement, **`Creativity is a wild mind and a disciplined eye`**. I wish to turn
 Technology. Looking to secure a role within a company that allows me to utilize my critical thinking, analytical skills, creativity & IT skills 
 in both an independent and team setting, and to be making a positive contribution to the company overall.
 
-  
+- 👀 Interested in AI, ML, Web, App & Game Development 
+- 🌱 Currently learning ML & React
+- 💞️ Looking to collaborate on various web & game development projects
 - 📫 Available at **[`riteshkpandey28@gmail.com`](mailto:riteshkpandey28@gmail.com`)** ,**[`riteshkumar.dp@somaiya.edu`](mailto:riteshkumar.dp@somaiya.edu`)**;
 - 💬 Love to hear different stories, reach out to me anytime. Always up for a conversation;
 
