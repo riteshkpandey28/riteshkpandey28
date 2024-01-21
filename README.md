@@ -5,7 +5,7 @@
   
 [![Linkedin Badge](https://img.shields.io/badge/-riteshkpandey28-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riteshkpandey28/)](https://www.linkedin.com/in/riteshkpandey28/)
 [![Twitter Badge](https://img.shields.io/badge/-@riteshkpandey28-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/riteshkpandey28)](https://twitter.com/riteshkpandey28)
-[![Instagram Badge](https://img.shields.io/badge/-@riteshkpandey28-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/riteshkpandey28/)](https://instagram.com/riteshkpandey28)
+[![Instagram Badge](https://img.shields.io/badge/-@riteshkpandey_-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/riteshkpandey_/)](https://instagram.com/riteshkpandey28)
 [![Gmail Badge](https://img.shields.io/badge/-riteshkpandey28-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:riteshkpandey28@gmail.com)](mailto:riteshkpandey28@gmail.com)
 
 </div>
